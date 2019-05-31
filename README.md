@@ -1,9 +1,10 @@
 <h1 align="center">ACPocketCampRestarter</h1>
-<div align="center">
+<div align=center>
 <a align="center" href="https://opensource.org/licenses/MIT" target="_blank">
     <img align="center" src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
   </a>
   </div>
+  <br>
 <p align="center">
 Android app for <b>rooted devices only</b>
 </p>
