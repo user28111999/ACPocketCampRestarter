@@ -1,11 +1,13 @@
-<p align="center">
-  <h1>ACpocketCampRestarter</h1>
-  <br>
-  <a href="https://opensource.org/licenses/MIT" target="_blank">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+<h1 align="center">ACPocketCampRestarter</h1>
+<div align="center">
+<a align="center" href="https://opensource.org/licenses/MIT" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
   </a>
-  <br>
-  <span>
-    This app kills Animal Crossing: Pocket Camp, deletes the deviceAccount:.xml and restarts Pocket Camp.
-  </span>
+  </div>
+<p align="center">
+Android app for <b>rooted devices only</b>
 </p>
+<p align="center">
+This app kills <i>deviceAccount:.xml</i> for SafetyCheck and Reboot Pocket Camp to play on rooted devices, 
+</p>
+
